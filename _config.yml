@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://devpiratas.github.io
+title: DevPiratas
+tagline: Melhor ser pirata, do que marinheiro...
+description: Um hackspace para os piratas da internet
+paginate: 3
